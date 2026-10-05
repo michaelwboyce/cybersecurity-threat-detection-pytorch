@@ -1,0 +1,18 @@
+# Data files
+labelled_train.csv
+labelled_validation.csv
+labelled_test.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Environment
+.venv/
+venv/
+.env
+
+# OS
+.DS_Store
+Thumbs.db
